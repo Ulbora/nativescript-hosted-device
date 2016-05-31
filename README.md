@@ -4,7 +4,7 @@ This a Nativescript Plugin that lets you access device information from a hosted
 ## Installation
 
 ```
-tns plugin add nativescript-hosted-toast
+tns plugin add nativescript-hosted-device
 
 ```
 
