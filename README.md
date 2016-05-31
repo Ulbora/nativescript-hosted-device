@@ -1,4 +1,4 @@
-# Nativescript Hosted Device
+# Nativescript Hosted Device Plugin
 This a Nativescript Plugin that lets you access device information from a hosted Angular 2 application.
 
 ## Installation
