@@ -1,0 +1,31 @@
+{
+  "name": "nativescript-hosted-device",
+  "version": "1.0.0",
+  "description": "A NativeScript Device Plugin for Hosted Applications.",
+  "main": "device.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.3.0",
+      "ios": "1.3.0"
+    }
+  },
+  "keywords": [
+    "NativeScript",
+    "Device",    
+    "Android"
+  ],
+  "author": {
+    "name": "Ken Williamson",
+    "email": "kenulborapublic@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasHennig/nativescript-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TobiasHennig/nativescript-toast/issues"
+  },
+  "license": "MIT"
+  
+}
