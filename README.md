@@ -35,6 +35,8 @@ https://github.com/KenWilliamson/Angular2HostedMobileApp
 
 Component code:
 ```
+deviceReady: boolean;
+
  ngOnInit() {
         this.id = this._routeParams.get('id');
         this.hero = this._heroDetailsService.getHeroDetails(this.id);     
