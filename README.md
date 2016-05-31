@@ -8,6 +8,7 @@ tns plugin add nativescript-hosted-toast
 
 ```
 
+
  ## Usage
 
 Create a wrapper application with the following code and a Navivescript WebView.
