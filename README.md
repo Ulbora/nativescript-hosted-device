@@ -33,7 +33,7 @@ Inside the Angular 2 hosted application, write the code where you want to access
 See the following project as an example:
 https://github.com/KenWilliamson/Angular2HostedMobileApp
 
-component code:
+Component code:
 ```
  ngOnInit() {
         this.id = this._routeParams.get('id');
